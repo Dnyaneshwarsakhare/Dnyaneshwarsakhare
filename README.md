@@ -47,7 +47,6 @@ Languages and Tools🛠:
 ---
 
 <details>
-<summary> Hackathons 💻: </summary>
   
 <br/>
 
@@ -65,15 +64,15 @@ Languages and Tools🛠:
   <img align="left" alt="Dnyaneshwar sakhare github Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://instagram.com/dnyaneshwar_s22/">
+<a href="https://instagram.com/dnyaneshwar_s22">
   <img align="left" alt="Dnyaneshwar sakhare Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://twitter.com/DnyaneshwarS22/">
+<a href="https://twitter.com/DnyaneshwarS22">
   <img align="left" alt="Dnyaneshwar sakhare's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
-<a href="https://linkedin.com/in/dnyaneshwar-sakhare/">
+<a href="https://linkedin.com/in/dnyaneshwar-sakhare">
   <img align="left" alt="Dnyaneshwar sakhare's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
@@ -90,7 +89,7 @@ Languages and Tools🛠:
   </a>
 
 <a href="https://github.com/Dnyaneshwarsakhare">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwarsakhare&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwarsakhare&show_icons=true&theme=tokyonight&line_height=27" alt="Dnyaneshwar's github stats"/>
 </a>
 
 <br/>
@@ -100,28 +99,13 @@ Languages and Tools🛠:
 ### My Projects ✨:
   
 <a href="https://github.com/Dnyaneshwarsakhare/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Portfolio&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Dnyaneshwarsakhare/rationapp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=robofriends&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
 
 ### My WakaTime Stats 📊:
 
