@@ -102,8 +102,8 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Portfolio&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Dnyaneshwarsakhare/rationapp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp&theme=tokyonight" />
+<a href="https://github.com/ramraj145/rationapp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ramraj145&repo=rationapp&theme=tokyonight" />
 </a>
 
 
@@ -126,6 +126,6 @@ Text         9 mins          █░░░░░░░░░░░░░░░░
 
 </div>
 -----
-Credits: [Davekibh](https://github.com/Dnyaneshwarsakhare)
+Credits: [Dnyaneshwar Sakhare](https://github.com/Dnyaneshwarsakhare)
 
 Last Edited on: 19/02/2021
