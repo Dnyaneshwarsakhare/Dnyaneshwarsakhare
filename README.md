@@ -108,6 +108,10 @@ Languages and Tools🛠:
 </a>
 
 
+<a href="https://github.com/Dnyaneshwarsakhare/E-Waste-management-webapp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=E-Waste-management-webapp&theme=tokyonight" />
+</a>
+
 ### My WakaTime Stats 📊:
 
 <!--START_SECTION:waka-->
