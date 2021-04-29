@@ -103,8 +103,8 @@ Languages and Tools🛠:
 </a>
 
 
-<a href="https://github.com/ramraj145/rationapp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ramraj145&repo=rationapp&theme=tokyonight" />
+<a href="https://github.com/Dnyaneshwarsakhare/RationApp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=RationApp&theme=tokyonight" />
 </a>
 
 
