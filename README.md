@@ -84,9 +84,6 @@ Languages and Tools🛠:
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Dnyaneshwarsakhare">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwarsakhare&theme=tokyonight" />
-  </a>
 
 <a href="https://github.com/Dnyaneshwarsakhare">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwarsakhare&show_icons=true&theme=tokyonight&line_height=27" alt="Dnyaneshwar's github stats"/>
@@ -103,8 +100,11 @@ Languages and Tools🛠:
 </a>
 
 
-<a href="https://github.com/Dnyaneshwarsakhare/RationApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=RationApp&theme=tokyonight" />
+<a href="https://github.com/Dnyaneshwarsakhare/rationapp-frontend">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp-frontend&theme=tokyonight" />
+</a>
+<a href="https://github.com/Dnyaneshwarsakhare/rationapp-backend">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp-backend&theme=tokyonight" />
 </a>
 
 
