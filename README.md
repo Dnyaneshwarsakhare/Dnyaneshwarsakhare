@@ -12,10 +12,10 @@ I am interested in learning DS, Front end and backend web technolgies and would 
 - 🌱 I’m currently learning Backend Development.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend and Backend.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to create valuable project.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=Dnyaneshwarsakhare.Dnyaneshwarsakhare)
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FDnyaneshwarsakhare%2Fhit-counter" alt="Hits">
 
 <br/>
 
@@ -44,16 +44,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
 
----
 
-<details>
-  
-<br/>
-
-
-</details>
-
----
 
 <details>
 <summary> Connect with me🤝: </summary>  
@@ -99,30 +90,20 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Portfolio&theme=tokyonight" />
 </a>
 
-
+<br />
 <a href="https://github.com/Dnyaneshwarsakhare/rationapp-frontend">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp-frontend&theme=tokyonight" />
 </a>
+<br/>
 <a href="https://github.com/Dnyaneshwarsakhare/rationapp-backend">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp-backend&theme=tokyonight" />
 </a>
 
-
+<br/>
 <a href="https://github.com/Dnyaneshwarsakhare/E-Waste-management-webapp">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=E-Waste-management-webapp&theme=tokyonight" />
 </a>
 
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
 
 <div align="center">
   
