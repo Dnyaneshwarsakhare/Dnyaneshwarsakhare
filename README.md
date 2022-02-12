@@ -2,30 +2,29 @@
 
 [![ProfileBanner](https://avatars.githubusercontent.com/u/46813756?s=460&u=073759a73f86ce72684fe692527510f95a65a73f&v=4)](https://Dnyaneshwarsakhare.github.io)
 
-### About me🧑:
-I am Computer Science Engineering student.<br/>
-I am interested in learning DS, Front end and backend web technolgies and would 💖 to grow my knowledge in these Technologies.
+### About me:
+I'm Software Developer.<br/>
+I'm interested in learning DS, Front end and backend web technolgies and would 💖 to grow my knowledge in these Tech.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Mern Stack Web Development project.
-- 🌱 I’m currently learning Backend Development.
-- 🤔 I’m looking for help with Open source Contribution.
+
+- 🔭 I’m currently working as a Software Developer.
+- 🌱 I’m currently learning Java Backend Development.
 - 💬 Ask me about Frontend and Backend.
-- ⚡ Fun fact: I 💖 to create valuable project.
 - 🎢 Profile Visitors Count:  
+
+![](https://komarev.com/ghpvc/?username=Dnyaneshwarsakhare&label=PROFILE+VIEWS&color=green)
 ![](https://visitor-badge.glitch.me/badge?page_id=Dnyaneshwarsakhare.Dnyaneshwarsakhare)
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FDnyaneshwarsakhare%2Fhit-counter" alt="Hits">
+
 
 <br/>
 
 ---
 
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
-  <br/>
+Languages and Tools:
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,14 +41,11 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-</details>
+ <br/>
 
+---
 
-
-<details>
-<summary> Connect with me🤝: </summary>  
-
-<br/>
+Connect with me:
 
 <a href="https://github.com/Dnyaneshwarsakhare">
   <img align="left" alt="Dnyaneshwar sakhare github Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
@@ -64,12 +60,12 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://linkedin.com/in/dnyaneshwar-sakhare">
-  <img align="left" alt="Dnyaneshwar sakhare's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Dnyaneshwar sakhare's Linkedin" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
 
-</details>
+
 
 ---
 
@@ -90,7 +86,7 @@ Languages and Tools🛠:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Portfolio&theme=tokyonight" />
 </a>
 
-<br />
+<br/>
 <a href="https://github.com/Dnyaneshwarsakhare/rationapp-frontend">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp-frontend&theme=tokyonight" />
 </a>
