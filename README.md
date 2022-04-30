@@ -48,19 +48,19 @@ Languages and Tools:
 Connect with me:
 
 <a href="https://github.com/Dnyaneshwarsakhare">
-  <img align="left" alt="Dnyaneshwar sakhare github Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Dnyaneshwar sakhare github Github" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://instagram.com/dnyaneshwar_s22">
-  <img align="left" alt="Dnyaneshwar sakhare Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  <img align="left" alt="Dnyaneshwar sakhare Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
 <a href="https://twitter.com/DnyaneshwarS22">
-  <img align="left" alt="Dnyaneshwar sakhare's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+  <img align="left" alt="Dnyaneshwar sakhare's Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
 <a href="https://linkedin.com/in/dnyaneshwar-sakhare">
-  <img align="left" alt="Dnyaneshwar sakhare's Linkedin" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Dnyaneshwar sakhare's Linkedin" width="25px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
@@ -73,7 +73,7 @@ Connect with me:
 
 
 <a href="https://github.com/Dnyaneshwarsakhare">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwarsakhare&show_icons=true&theme=tokyonight&line_height=27" alt="Dnyaneshwar's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwarsakhare&show_icons=true&theme=radical&line_height=27" alt="Dnyaneshwar's github stats"/>
 </a>
 
 <br/>
@@ -82,7 +82,7 @@ Connect with me:
 
 ### My Skills 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwarsakhare&layout=compact&theme=tokyonight)](https://github.com/Dnyaneshwarsakhare/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwarsakhare&layout=compact&theme=radical)](https://github.com/Dnyaneshwarsakhare/github-readme-stats)
 
 ### My Projects ✨:
   
