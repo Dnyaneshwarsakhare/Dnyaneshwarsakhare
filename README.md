@@ -80,6 +80,10 @@ Connect with me:
 <br/>
 <br/>
 
+### My Skills 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwarsakhare&langs_count=12&theme=chartreuse-dark&layout=compact" alt="Dnyaneshwar:: Top Langs" />
+
 ### My Projects ✨:
   
 <a href="https://github.com/Dnyaneshwarsakhare/Portfolio">
