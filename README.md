@@ -78,13 +78,12 @@ Connect with me:
 
 <br/>
 <br/>
-<br/>
+
 
 ### My Skills 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwarsakhare&langs_count=12&theme=chartreuse-dark&layout=compact" alt="Dnyaneshwar:: Top Langs" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwarsakhare&layout=compact&theme=tokyonight)](https://github.com/Dnyaneshwarsakhare/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwarsakhare&langs_count=12&theme=chartreuse-dark&layout=compact" />
 ### My Projects ✨:
   
 <a href="https://github.com/Dnyaneshwarsakhare/Portfolio">
