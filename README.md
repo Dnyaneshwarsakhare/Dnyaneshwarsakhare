@@ -99,11 +99,6 @@ Connect with me:
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=rationapp-backend&theme=tokyonight" />
 </a>
 
-<br/>
-<a href="https://github.com/Dnyaneshwarsakhare/E-Waste-management-webapp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=E-Waste-management-webapp&theme=tokyonight" />
-</a>
-
 
 <div align="center">
   
@@ -114,4 +109,4 @@ Connect with me:
 -----
 Credits: [Dnyaneshwar Sakhare](https://github.com/Dnyaneshwarsakhare)
 
-Last Edited on: 19/02/2021
+
