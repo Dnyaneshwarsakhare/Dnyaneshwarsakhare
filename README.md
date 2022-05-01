@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 <p>
-I'm <b>Software Developer</b>.<br/>
-I'm interested in learning DS, Front end and backend web technolgies and would 💖 to grow my knowledge in cloud Tech.
+I'm <b>Software Developer</b><br/>
+I've knowledge of DS, Front end and backend web technolgies and would like to grow my knowledge in cloud Tech.
 </p>
 <p>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" width="300" height="200" />
