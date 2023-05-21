@@ -1,8 +1,8 @@
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=25px width = 15px>
 <a href="https://dnyaneshwarsakhare.github.io/Portfolio/" >My Portfolio link</a>
 <p>
-I'm <b>Software Developer</b><br/>
-I've knowledge of DS, Front end and backend web technolgies and would like to grow my knowledge in cloud Tech.
+I'm <b>Software Engineer</b><br/>
+I've knowledge of Front end and backend web technolgies and would like to explore new technologies.
 </p>
 <p>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" width="300" height="200" />
@@ -10,9 +10,8 @@ I've knowledge of DS, Front end and backend web technolgies and would like to gr
 <br/>
 <p>
 <ul>
-<li>🔭 I’m currently working as a Java Backend Developer.</li>
-<li>🌱 I’m currently learning Java Backend Development.</li>
-<li>💬 Ask me about Frontend and Backend.</li>
+<li> I’m currently working as a Java Full Stack Developer.</li>
+<li> I’ve have knowledge on Java, SpringBoot, React JS.</li>
 </ul>
 
 🎢 Profile Visitors Count:  
@@ -89,8 +88,8 @@ I've knowledge of DS, Front end and backend web technolgies and would like to gr
 
 ### My Projects ✨:
   
-<a href="https://github.com/Dnyaneshwarsakhare/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Portfolio&theme=tokyonight" />
+<a href="https://github.com/Dnyaneshwarsakhare/Microservices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Microservices&theme=tokyonight" />
 </a>
 
 <br/>
