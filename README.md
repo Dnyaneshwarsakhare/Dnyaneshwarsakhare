@@ -85,8 +85,8 @@ I've knowledge of Front end and backend web technolgies and would like to explor
 
 ### My Projects ✨:
   
-<a href="https://github.com/Dnyaneshwarsakhare/Microservices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Microservices&theme=tokyonight" />
+<a href="https://github.com/Dnyaneshwarsakhare/Mircroservice-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=Mircroservice-project&theme=tokyonight" />
 </a>
 
 <br/>
